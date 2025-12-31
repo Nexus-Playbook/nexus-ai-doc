@@ -1,8 +1,7 @@
 # Architecture Validation - Language-Responsibility Map Compliance
 
-**Document Version:** 1.0  
-**Review Date:** January 1, 2026  
-**Project:** Nexus AI (TaskPulse 2.0)  
+**Document Version:** 1.0   
+**Project:** Nexus AI  
 **Reviewer:** Architecture Team  
 
 ---
